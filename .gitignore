@@ -5,3 +5,10 @@ LICENSE
 CITATION.cff
 build/
 devel/
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/moveit_planning_scenes.0
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/moveit_constraints.0
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/local.0
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/moveit_robot_states.0
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/journal/prealloc.0
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/journal/prealloc.1
+src/multirobot/one_arm_moveit/one_arm_moveit_config/default_warehouse_mongo_db/journal/prealloc.2
